@@ -1,2 +1,1 @@
-# privacy-policy
-StalBeep BOT | Privacy Policy
+# Privacy Policy
