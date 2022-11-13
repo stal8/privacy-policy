@@ -6,7 +6,7 @@
 ## Bu verileri başkasıyla paylaşıyor musunuz?
 ### ・ Hayır, kimseye paylaşılmamaktadır.
 ## İletişime nasıl geçebilirim?
-### ・ [Destek sunucusu](https://discord.gg/u6CcYxDchB) üzerinden iletişime geçebilirsiniz.
+### ・ [Botun destek sunucusu](https://discord.gg/u6CcYxDchB) üzerinden iletişime geçebilirsiniz.
 ## Verilerime nasıl ulaşabilirim?
 ### ・ Geçerli sebebiniz olduğu sürece verilerinizi talep edebilirsiniz.
 ## Verilerinizi nasıl kaldırabilirsiniz?
