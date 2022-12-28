@@ -9,5 +9,5 @@
 ### ・ [Botun destek sunucusu](https://discord.gg/u6CcYxDchB) üzerinden iletişime geçebilirsiniz.
 ## Verilerime nasıl ulaşabilirim?
 ### ・ Geçerli sebebiniz olduğu sürece verilerinizi talep edebilirsiniz.
-## Verilerinizi nasıl kaldırabilirsiniz?
-### ・ Kaydettiğiniz verilerinizi ister destek sunucusundan iletişime geçip ister kaydettiğiniz komutlar üzerindeki sıfırla veya kapat seçeneklerinden uygun olanını seçip kaldırabilirsiniz.
+## Verilerimi kaldırmanın yolları?
+### ・ Kaydettiğiniz verilerinizi ister [botun destek sunucusundan](https://discord.gg/u6CcYxDchB) bize ulaşıp ister kaydettiğiniz komutlar üzerindeki sıfırla veya kapat seçeneklerinden uygun olanını seçip kaldırabilirsiniz.
