@@ -10,4 +10,4 @@
 ## Verilerime nasıl ulaşabilirim?
 ### ・ Geçerli sebebiniz olduğu sürece [iletişim](https://github.com/stal-bot/privacy-policy/blob/main/README.md#sizinle-ileti%C5%9Fime-nas%C4%B1l-ge%C3%A7ebilirim) yerinden bizimle iletişime geçebilirsiniz.
 ## Verilerimi kaldırmanın yolları?
-### ・ Kaydettiğiniz verilerinizi; ister [iletişim](https://github.com/stal-bot/privacy-policy/blob/main/README.md#sizinle-ileti%C5%9Fime-nas%C4%B1l-ge%C3%A7ebilirim) yerinden bizlere ulaşarak isterseniz de komutlar aracılığıyla kaydettiğiniz sistem verilerini komut bölümündeki sıfırla veya kapat seçeneklerinden uygun olanını seçip kaldırabilirsiniz.
+### ・ Kaydettiğiniz verilerinizi; ister <a href "https://github.com/stal-bot/privacy-policy/blob/main/README.md#sizinle-ileti%C5%9Fime-nas%C4%B1l-ge%C3%A7ebilirim">iletişim</a> yerinden bizlere ulaşarak isterseniz de komutlar aracılığıyla kaydettiğiniz sistem verilerini komut bölümündeki sıfırla veya kapat seçeneklerinden uygun olanını seçip kaldırabilirsiniz.
