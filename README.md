@@ -1,4 +1,4 @@
-# Privacy Policy (Son Güncelleme: 09.08.2023)
+# Privacy Policy (Son Güncelleme: 22.08.2023)
 ## Hangi Verilerim Saklanıyor?
 ### ・ Sunucu, kanal, rol ve kullanıcı gibi veriler saklanabiliyor.
 ## Verilere neden ihtiyaç duyuyorsunuz ve ne için kullanıyorsunuz?
@@ -8,6 +8,6 @@
 ## Sizinle iletişime nasıl geçebilirim?
 ### ・ [Botun destek sunucusu](https://discord.gg/vuwb5esqkx) üzerinden destek talebi oluşturarak veya [memte.](https://discord.com/users/690634258691391589) hesabına mesaj ileterek iletişime geçebilirsiniz.
 ## Verilerime nasıl ulaşabilirim?
-### ・ Geçerli sebebiniz olduğu sürece [iletişim](https://github.com/stal-bot/privacy-policy/blob/main/README.md#sizinle-ileti%C5%9Fime-nas%C4%B1l-ge%C3%A7ebilirim) yerinden bizimle iletişime geçebilirsiniz.
+### ・ Geçerli sebebiniz olduğu sürece bir önceki maddedeki yollardan bizimle iletişime geçebilirsiniz.
 ## Verilerimi kaldırmanın yolları?
 ### ・ Kaydettiğiniz verilerinizi; ister [iletişim](https://github.com/stal-bot/privacy-policy/blob/main/README.md#sizinle-ileti%C5%9Fime-nas%C4%B1l-ge%C3%A7ebilirim) yerinden bizlere ulaşarak isterseniz de komutlar aracılığıyla kaydettiğiniz sistem verilerini komut bölümündeki sıfırla veya kapat seçeneklerinden uygun olanını seçip kaldırabilirsiniz.
