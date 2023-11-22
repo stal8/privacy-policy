@@ -1,13 +1,13 @@
-# Privacy Policy (Son Güncelleme: 22.08.2023)
+# Privacy Policy (Son Güncelleme: 22.11.2023)
 ## Hangi Verilerim Saklanıyor?
-### ・ Sunucu, kanal, rol ve kullanıcı gibi veriler saklanabiliyor.
+### ・ Sunucu, kanal, rol ve kullanıcı gibi verileriniz saklanır.
 ## Verilere neden ihtiyaç duyuyorsunuz ve ne için kullanıyorsunuz?
-### ・ Sistemine göre değişmekte olup sistemlerin amaçlarına uygun bir şekilde çalışabilmesi için bu veriler gerekli ve kullanılmakta.
-## Bu verileri başkasıyla paylaşıyor musunuz?
-### ・ Hayır, hiçbir şekilde hiçbir kimseye paylaşılmamaktadır ve kesinlikle paylaşılmayacaktır.
-## Sizinle iletişime nasıl geçebilirim?
-### ・ [Botun destek sunucusu](https://discord.gg/vuwb5esqkx) üzerinden destek talebi oluşturarak veya [memte.](https://discord.com/users/690634258691391589) hesabına mesaj ileterek iletişime geçebilirsiniz.
+### ・ Sistemlere özgü amaçlarına uygun bir şekilde çalışabilmek için bu verilere ihtiyaç duyuluyor.
+## Bu verileri 3.taraf kişilerle paylaşıyor musunuz?
+### ・ Hayır, hiçbir 3. taraf kimseyle verileriniz paylaşılmaz.
+## Sizinle İletişime Nasıl Geçebilirim?
+### ・ [Botun destek sunucusu](https://discord.gg/vuwb5esqkx) üzerinden destek talebi oluşturarak veya [memte.](https://discord.com/users/690634258691391589) hesabına mesaj atarak iletişime geçebilirsiniz.
 ## Verilerime nasıl ulaşabilirim?
-### ・ Geçerli sebebiniz olduğu sürece bir önceki maddedeki yollardan bizimle iletişime geçebilirsiniz.
-## Verilerimi kaldırmanın yolları?
-### ・ Kaydettiğiniz verilerinizi; ister bizimle iletişime geçerek isterseniz de komutlar aracılığıyla kaydettiğiniz sistem verilerini komut bölümündeki sıfırla veya kapat seçeneklerinden uygun olanını seçip kaldırabilirsiniz.
+### ・ Geçerli sebep ile yukarıdaki yöntemlerle iletişime geçerek verilerinize ulaşabilirsiniz.
+## Verilerimi nasıl kaldırabilirim?
+### ・ Kaydettiğiniz verileri iletişime geçerek veya komutları kullanarak kaldırabilirsiniz.
