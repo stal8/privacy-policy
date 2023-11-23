@@ -1,6 +1,6 @@
 # Privacy Policy (Son Güncelleme: 22.11.2023)
 ## Hangi Verilerim Saklanıyor?
-### ・ Sunucu, kanal, rol ve kullanıcı gibi verileriniz saklanır.
+### ・ Sunucu, kanal, rol ve kullanıcı kimliklikleri gibi verileriniz saklanır.
 ## Verilere Neden İhtiyaç Duyuyorsunuz ve Ne İçin Kullanıyorsunuz?
 ### ・ Sistemlere özgü amaçlarına uygun bir şekilde çalışabilmek için bu verilere ihtiyaç duyuluyor.
 ## Bu Verileri 3. Taraf Kişilerle Paylaşıyor Musunuz?
