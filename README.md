@@ -1,13 +1,22 @@
-# Privacy Policy (Son Güncelleme: 22.11.2023)
-## Hangi Verilerim Saklanıyor?
-### ・ Sunucu, kanal, rol ve kullanıcı kimliklikleri gibi verileriniz saklanır.
-## Verilere Neden İhtiyaç Duyuyorsunuz ve Ne İçin Kullanıyorsunuz?
-### ・ Sistemlere özgü amaçlarına uygun bir şekilde çalışabilmek için bu verilere ihtiyaç duyuluyor.
-## Bu Verileri 3. Taraf Kişilerle Paylaşıyor Musunuz?
-### ・ Hayır, hiçbir 3. taraf kimseyle verileriniz paylaşılmaz.
-## Sizinle İletişime Nasıl Geçebilirim?
-### ・ [Botun destek sunucusu](https://discord.gg/vuwb5esqkx) üzerinden destek talebi oluşturarak veya [memte.](https://discord.com/users/690634258691391589) hesabına mesaj atarak iletişime geçebilirsiniz.
-## Verilerime Nasıl Ulaşabilirim?
-### ・ Geçerli sebep ile yukarıdaki yöntemlerle iletişime geçerek verilerinize ulaşabilirsiniz.
-## Verilerimi Nasıl Kaldırabilirim?
-### ・ Kaydettiğiniz verileri iletişime geçerek veya komutları kullanarak kaldırabilirsiniz.
+# Gizlilik Politikası (Son Güncelleme: 13.09.2024)
+
+## 1. Toplanan Veriler
+
+- Sunucu, kanal, rol ve kullanıcı kimlik bilgileri gibi veriler toplanmaktadır.
+
+## 2. Verilerin Toplanma Amacı ve Kullanım Alanları
+
+- Bu veriler, botun sistemlerine özgü fonksiyonlarını yerine getirebilmesi ve kullanıcı deneyiminin iyileştirilebilmesi amacıyla toplanmaktadır.
+
+## 3. Verilerin 3. Taraflarla Paylaşılması
+
+- Toplanan veriler, hiçbir şekilde üçüncü taraf kişi veya kurumlarla paylaşılmamaktadır.
+
+## 4. Veri Sahibinin Hakları
+
+- **Verilere Erişim:** Kişisel verilerinize erişim talebinde bulunmak için aşağıda belirtilen iletişim yollarını kullanabilirsiniz.
+- **Verilerin Silinmesi:** Talep üzerine, saklanan verileriniz kalıcı olarak silinebilir.
+
+## 5. İletişim
+
+- Sorularınız veya talepleriniz için [botun destek sunucusuna](https://discord.gg/vuwb5esqkx) başvurabilir ya da [memte.](https://discord.com/users/690634258691391589) hesabına mesaj gönderebilirsiniz.
