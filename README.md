@@ -1,4 +1,5 @@
-# Gizlilik Politikası (Son Güncelleme: 13.09.2024)
+# Gizlilik Politikası
+<sub>Son Güncelleme: 13.09.2024
 
 ## 1. Toplanan Veriler
 
